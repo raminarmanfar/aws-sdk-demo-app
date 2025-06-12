@@ -1,0 +1,2 @@
+Hi there,
+This is my sample file to be uploaded to the AWS SDK using SDK.

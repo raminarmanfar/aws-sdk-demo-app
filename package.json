@@ -1,0 +1,22 @@
+{
+  "name": "aws-sdk-demo-app",
+  "version": "1.0.0",
+  "description": "AWS SDK Demo App",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AWS",
+    "SDK",
+    "Javascript",
+    "Cloud"
+  ],
+  "author": "Ramin",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.828.0",
+    "inquirer": "^12.6.3"
+  }
+}
